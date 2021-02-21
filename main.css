@@ -1,0 +1,11 @@
+*{
+   margin: auto;
+   padding: auto;
+   background-image: linear-gradient(to bottom right, white, black)
+       
+}
+  @font-face {
+  font-family: 'MinecraftText';
+  src: local('MinecraftText'), url(fonts/MinecraftText.ttf) format('ttf');
+    
+}
