@@ -5,7 +5,7 @@ class About extends Component {
   render() {
     return (
       <div id="info-wrapper">
-      
+
         <h1 className="info-header">about us</h1>
           <p className="info-container">
             pearlhacks hackathon 2021. we're a team of students from across the
@@ -18,7 +18,7 @@ class About extends Component {
             data storage mechanisms.
           </p>
           <p className="info-container">
-            technologies used: react js
+            technologies used: react js, npm, p5.js
           </p>
 
       </div>

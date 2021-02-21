@@ -8,10 +8,16 @@ import './App.css';
 
 
 function App() {
+
   return (
     <div>
 
       <NavBar />
+
+      <div id="block-wrap">
+        <h1 className="block-header">blocks</h1>
+
+      </div>
 
       <Blocks />
 

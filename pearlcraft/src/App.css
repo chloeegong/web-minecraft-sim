@@ -1,23 +1,12 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h1 {
+  font-size: 150%;
 }
 
 /* blocks section */
 #block-wrap {
   padding: 50px;
   border-radius: 40px;
-  align-items: center; 
+  align-items: center;
 }
 
 /* about us section */

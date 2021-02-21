@@ -19,7 +19,7 @@ class Team extends Component {
             <p> csulb / 2024
             </p>
           <h2 className="team-indiv">melody</h2>
-            <p> ncsu / 2023
+            <p> ncsu / 2022
             </p>
       </div>
     );
