@@ -3,7 +3,7 @@ import { Navbar, Nav, NavItem } from 'react-bootstrap';
 import About from './About';
 import Team from './Team';
 import logo from './mc-logo.png';
-import './App.css'; 
+import './App.css';
 
 class NavBar extends Component {
   render() {

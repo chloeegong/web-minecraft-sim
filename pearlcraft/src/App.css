@@ -13,6 +13,12 @@
   }
 }
 
+/* blocks section */
+#block-wrap {
+  padding: 50px;
+  border-radius: 40px;
+  align-items: center; 
+}
 
 /* about us section */
 #info-wrapper {

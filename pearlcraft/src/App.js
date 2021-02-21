@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Blocks from "./Blocks";
 import NavBar from "./NavBar";
 import About from './About';
 import Team from './Team';
@@ -11,6 +12,8 @@ function App() {
     <div>
 
       <NavBar />
+
+      <Blocks />
 
       <About />
 
